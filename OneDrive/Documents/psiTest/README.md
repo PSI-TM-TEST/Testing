@@ -1,0 +1,1 @@
+This repository consists of the testing code used to create IAC within AZ deployments for a temp project.
